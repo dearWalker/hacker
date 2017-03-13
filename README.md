@@ -1,0 +1,2 @@
+# hacker
+find a teacher
